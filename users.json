@@ -1,25 +1,7 @@
 [
   {
-    "email": "test@test.com"
-  },
-  {
-    "email": "test3@test.com",
-    "password": "password",
-    "id": "ad904e49"
-  },
-  {
-    "email": "test4@test.com",
-    "password": "password",
-    "id": "9c5083c4"
-  },
-  {
-    "email": "test6@test.com",
-    "password": "ddec2c2cce39b8a7e2ff29e3e339e020ceb3b28af8f394fb37cb500c574119b335a463c4db216dbe153b9703ba9770d9059fb2b94457a70f6b62519e91c5c359.1e8835d09db5d318",
-    "id": "21bb9683"
-  },
-  {
-    "email": "test8@test.com",
-    "password": "672c5b81e7aac7141ab364dbde98e2eeffbbb5d8a1e5a9aeb329d6565baa4489d2da47d2e59fcc3ed9834cab740ae3b85bea36c6a81d97a1234ec191535add56.e9619af6d017a321",
-    "id": "6575ebfb"
+    "email": "test@test.com",
+    "password": "9f900f910189498627f34cad117660f66e4e2575d546d2645507af126e04035f8ecae619014d916c74ceaddf2f53577934cc6f14c10cb602460bcdbb9cc85008.1065247bbcec93ac",
+    "id": "b9a26c36"
   }
 ]
